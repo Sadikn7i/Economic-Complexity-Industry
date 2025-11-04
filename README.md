@@ -44,15 +44,6 @@ A proximity matrix is constructed, showing how closely related different product
 
 ---
 
----
-
-## References
-
-This analysis is based on the original economic complexity methodology by Hausmann & Hidalgo (PNAS 2009; MIT Press 2014). For more theoretical and technical details, see those foundational works.
-
-**Last Updated:** November 2025
-
-
 ## Stage 7: Complexity Outlook (COI & COG)
 
 The workflow calculates the Complexity Outlook Index (COI) and Complexity Outlook Gain (COG) for each province. COI measures the growth potential based on complex sectors not yet produced by the province; COG adjusts for the province’s current diversity.
@@ -63,3 +54,18 @@ The workflow calculates the Complexity Outlook Index (COI) and Complexity Outloo
 
 All results—tables, rankings, and high-quality PNG visualizations—are saved to your specified output directory. Example code to create your folder (edit as needed):
 
+---
+
+## References
+
+This analysis is based on the original economic complexity methodology by Hausmann & Hidalgo (PNAS 2009; MIT Press 2014). For more theoretical and technical details, see those foundational works.
+
+**Last Updated:** November 2025
+---
+
+## Contact
+
+- 📧 Email: [spiritx98@gmail.com](mailto:spiritx98@gmail.com)
+- 🐦 Twitter/X: [@sadikadendirir](https://x.com/sadikadendirir)
+- 📷 Instagram: [@sadiq_n7i](https://www.instagram.com/sadiq_n7i/)
+- 💻 GitHub: [Sadikn7i](https://github.com/Sadikn7i)
