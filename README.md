@@ -1,4 +1,3 @@
-# Economic Complexity Index (ECI) Analysis in R
 
 This repository provides a complete, stepwise pipeline for analyzing regional economic complexity using the Method of Reflections. All stages are documented below for clarity and reproducibility.
 
