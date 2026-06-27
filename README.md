@@ -65,7 +65,7 @@ This analysis is based on the original economic complexity methodology by Hausma
 
 ## Contact
 
-- 📧 Email: [spiritx98@gmail.com](mailto:spiritx98@gmail.com)
-- 🐦 Twitter/X: [@sadikadendirir](https://x.com/sadikadendirir)
-- 📷 Instagram: [@sadiq_n7i](https://www.instagram.com/sadiq_n7i/)
-- 💻 GitHub: [Sadikn7i](https://github.com/Sadikn7i)
+- Email: [spiritx98@gmail.com](mailto:spiritx98@gmail.com)
+- Twitter/X: [@sadikadendirir](https://x.com/sadikadendirir)
+- Instagram: [@sadiq_n7i](https://www.instagram.com/sadiq_n7i/)
+- GitHub: [Sadikn7i](https://github.com/Sadikn7i)
